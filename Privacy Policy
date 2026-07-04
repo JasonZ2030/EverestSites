@@ -1,35 +1,137 @@
-Everest
-Privacy Policy
-Effective July 4, 2026
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy — Everest</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --summit-navy: #1F4E6B;
+    --summit-gold: #FFB026;
+    --slate-azure: #4E7193;
+    --summit-cream: #F0E7D5;
+    --warm-white: #FFFDF8;
+    --basecamp-ink: #1B242B;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--warm-white);
+    color: var(--basecamp-ink);
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 1.0625rem;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 42rem; margin: 0 auto; padding: 3.5rem 1.5rem 5rem; }
+  header { margin-bottom: 0.5rem; }
+  .wordmark {
+    font-family: 'Sora', sans-serif;
+    font-weight: 700;
+    font-size: 1.25rem;
+    color: var(--summit-navy);
+    letter-spacing: 0.01em;
+    text-decoration: none;
+  }
+  h1 {
+    font-family: 'Sora', sans-serif;
+    font-weight: 600;
+    font-size: clamp(1.75rem, 5vw, 2.375rem);
+    color: var(--summit-navy);
+    line-height: 1.2;
+    margin-top: 2.25rem;
+  }
+  .meta {
+    color: var(--slate-azure);
+    font-size: 0.9375rem;
+    margin-top: 0.625rem;
+  }
+  .ridge { margin: 2rem 0 2.5rem; display: block; width: 100%; height: auto; }
+  h2 {
+    font-family: 'Sora', sans-serif;
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: var(--summit-navy);
+    margin: 2.5rem 0 0.75rem;
+  }
+  p { margin-bottom: 1rem; }
+  ul { margin: 0 0 1rem 1.25rem; }
+  li { margin-bottom: 0.5rem; }
+  a { color: var(--slate-azure); text-underline-offset: 3px; }
+  a:hover { color: var(--summit-navy); }
+  a:focus-visible { outline: 2px solid var(--summit-navy); outline-offset: 3px; border-radius: 2px; }
+  .plain-summary {
+    background: var(--summit-cream);
+    border-radius: 12px;
+    padding: 1.375rem 1.5rem;
+    margin: 0 0 1rem;
+  }
+  .plain-summary p { margin: 0; }
+  .plain-summary strong { font-weight: 600; color: var(--summit-navy); }
+  footer {
+    margin-top: 4rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--summit-cream);
+    font-size: 0.9375rem;
+    color: var(--slate-azure);
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <a class="wordmark" href="./support.html">Everest</a>
+  </header>
 
-Summary: Everest doesn't have accounts, and it doesn't collect, sell, or share your personal data. Your screen time, location, and motion data are processed on your device and never leave it. The only network activity is downloading educational content into the app.
+  <h1>Privacy Policy</h1>
+  <p class="meta">Effective July 4, 2026</p>
 
-Who we are
-Everest is an iOS app that helps you reduce phone use by redirecting you toward real-world activities. This policy explains what information the app handles and what happens to it. If anything here is unclear, email us at liberationwitheverest@gmail.com .
+  <!-- Ridgeline divider — the single gold element on this page is the summit point -->
+  <svg class="ridge" viewBox="0 0 640 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mountain ridgeline">
+    <polyline points="0,48 120,30 200,40 320,8 440,38 540,26 640,44"
+      fill="none" stroke="#1F4E6B" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="320" cy="8" r="5" fill="#FFB026"/>
+  </svg>
 
-What we don't collect
-Everest has no user accounts and no sign-in. We do not collect, store, or transmit your name, email address, contacts, photos, browsing history, app usage, location history, or any other personal information. We do not use third-party advertising, and we do not sell or share data with anyone — there is nothing to sell.
+  <div class="plain-summary">
+    <p><strong>The short version:</strong> Everest doesn't have accounts, and it doesn't collect, sell, or share your personal data. Your screen time, location, and motion data are processed on your device and never leave it. The only network activity is downloading educational content into the app.</p>
+  </div>
 
-Screen Time data
-Everest uses Apple's Screen Time frameworks (Family Controls, Managed Settings, and Device Activity) to let you block distracting apps. You grant this permission explicitly, and Apple designed these frameworks so that your app usage information is processed entirely on your device. Everest cannot read, export, or transmit your screen time data, and it never leaves your iPhone. Revoking the permission in Settings > Screen Time disables blocking features at any time.
+  <h2>Who we are</h2>
+  <p>Everest is an iOS app that helps you reduce phone use by redirecting you toward real-world activities. This policy explains what information the app handles and what happens to it. If anything here is unclear, email us at <a href="mailto:liberationwitheverest@gmail.com">liberationwitheverest@gmail.com</a> .</p>
 
-Location
-Everest asks for location permission only when you use features that suggest real-world activities near you. Your location is used on your device at the moment you use those features. We do not store a history of your location, and your location is never sent to our servers. You can decline the permission or revoke it in Settings at any time; the rest of the app works without it.
+  <h2>What we don't collect</h2>
+  <p>Everest has no user accounts and no sign-in. We do not collect, store, or transmit your name, email address, contacts, photos, browsing history, app usage, location history, or any other personal information. We do not use third-party advertising, and we do not sell or share data with anyone — there is nothing to sell.</p>
 
-Motion data
-Everest's focus timer uses your iPhone's motion sensors to detect when your phone is placed face-down. This detection happens entirely on your device. Motion data is never recorded or transmitted.
+  <h2>Screen Time data</h2>
+  <p>Everest uses Apple's Screen Time frameworks (Family Controls, Managed Settings, and Device Activity) to let you block distracting apps. You grant this permission explicitly, and Apple designed these frameworks so that your app usage information is processed entirely on your device. Everest cannot read, export, or transmit your screen time data, and it never leaves your iPhone. Revoking the permission in Settings &gt; Screen Time disables blocking features at any time.</p>
 
-Notifications
-If you allow notifications, Everest uses them to send reminders and encouragement you've set up. Notification permission does not give us access to any of your data, and you can turn notifications off in Settings at any time.
+  <h2>Location</h2>
+  <p>Everest asks for location permission only when you use features that suggest real-world activities near you. Your location is used on your device at the moment you use those features. We do not store a history of your location, and your location is never sent to our servers. You can decline the permission or revoke it in Settings at any time; the rest of the app works without it.</p>
 
-Content delivery
-Everest's educational library (video links, titles, and descriptions) is delivered to the app from Google Firebase (Cloud Firestore and Cloud Storage). This is a one-way download: the app retrieves content, and no information about you or your usage is sent back. Like virtually all internet services, Google's servers may temporarily process standard connection data (such as your IP address) to deliver this content. You can read Google's privacy policy at policies.google.com/privacy.
+  <h2>Motion data</h2>
+  <p>Everest's focus timer uses your iPhone's motion sensors to detect when your phone is placed face-down. This detection happens entirely on your device. Motion data is never recorded or transmitted.</p>
 
-Children's privacy
-Everest is not directed at children under 13, and we do not knowingly collect personal information from anyone, including children.
+  <h2>Notifications</h2>
+  <p>If you allow notifications, Everest uses them to send reminders and encouragement you've set up. Notification permission does not give us access to any of your data, and you can turn notifications off in Settings at any time.</p>
 
-Changes to this policy
-If Everest's data practices change — for example, if we add accounts or sync in the future — we will update this policy and change the effective date above before those changes take effect.
+  <h2>Content delivery</h2>
+  <p>Everest's educational library (video links, titles, and descriptions) is delivered to the app from Google Firebase (Cloud Firestore and Cloud Storage). This is a one-way download: the app retrieves content, and no information about you or your usage is sent back. Like virtually all internet services, Google's servers may temporarily process standard connection data (such as your IP address) to deliver this content. You can read Google's privacy policy at <a href="https://policies.google.com/privacy" rel="noopener">policies.google.com/privacy</a>.</p>
 
-Contact
-Questions about privacy? Email: liberationwitheverest@gmail.com .
+  <h2>Children's privacy</h2>
+  <p>Everest is not directed at children under 13, and we do not knowingly collect personal information from anyone, including children.</p>
+
+  <h2>Changes to this policy</h2>
+  <p>If Everest's data practices change — for example, if we add accounts or sync in the future — we will update this policy and change the effective date above before those changes take effect.</p>
+
+  <h2>Contact</h2>
+  <p>Questions about privacy? Email <a href="mailto:liberationwitheverest@gmail.com">liberationwitheverest@gmail.com</a> .</p>
+
+  <footer>
+    <p>Everest &nbsp;·&nbsp; <a href="./support.html">Support</a></p>
+  </footer>
+</div>
+</body>
+</html>
