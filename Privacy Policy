@@ -1,0 +1,35 @@
+Everest
+Privacy Policy
+Effective July 4, 2026
+
+Summary: Everest doesn't have accounts, and it doesn't collect, sell, or share your personal data. Your screen time, location, and motion data are processed on your device and never leave it. The only network activity is downloading educational content into the app.
+
+Who we are
+Everest is an iOS app that helps you reduce phone use by redirecting you toward real-world activities. This policy explains what information the app handles and what happens to it. If anything here is unclear, email us at liberationwitheverest@gmail.com .
+
+What we don't collect
+Everest has no user accounts and no sign-in. We do not collect, store, or transmit your name, email address, contacts, photos, browsing history, app usage, location history, or any other personal information. We do not use third-party advertising, and we do not sell or share data with anyone — there is nothing to sell.
+
+Screen Time data
+Everest uses Apple's Screen Time frameworks (Family Controls, Managed Settings, and Device Activity) to let you block distracting apps. You grant this permission explicitly, and Apple designed these frameworks so that your app usage information is processed entirely on your device. Everest cannot read, export, or transmit your screen time data, and it never leaves your iPhone. Revoking the permission in Settings > Screen Time disables blocking features at any time.
+
+Location
+Everest asks for location permission only when you use features that suggest real-world activities near you. Your location is used on your device at the moment you use those features. We do not store a history of your location, and your location is never sent to our servers. You can decline the permission or revoke it in Settings at any time; the rest of the app works without it.
+
+Motion data
+Everest's focus timer uses your iPhone's motion sensors to detect when your phone is placed face-down. This detection happens entirely on your device. Motion data is never recorded or transmitted.
+
+Notifications
+If you allow notifications, Everest uses them to send reminders and encouragement you've set up. Notification permission does not give us access to any of your data, and you can turn notifications off in Settings at any time.
+
+Content delivery
+Everest's educational library (video links, titles, and descriptions) is delivered to the app from Google Firebase (Cloud Firestore and Cloud Storage). This is a one-way download: the app retrieves content, and no information about you or your usage is sent back. Like virtually all internet services, Google's servers may temporarily process standard connection data (such as your IP address) to deliver this content. You can read Google's privacy policy at policies.google.com/privacy.
+
+Children's privacy
+Everest is not directed at children under 13, and we do not knowingly collect personal information from anyone, including children.
+
+Changes to this policy
+If Everest's data practices change — for example, if we add accounts or sync in the future — we will update this policy and change the effective date above before those changes take effect.
+
+Contact
+Questions about privacy? Email: liberationwitheverest@gmail.com .
